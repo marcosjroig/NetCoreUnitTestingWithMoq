@@ -6,7 +6,7 @@ There are two projects: one is the "CreditCardApplication" project which has the
 This solution, which has a very simple code, nothing special using SOLID principles or a great code to look at, but most important is I tried to use the different features of Moq.
 
 ## Usage
-I used for this project:
+I used for this solution:
 - Visual Studio 2017
 - .Net Core 2.2
 - XUnit test project for .Net Core
